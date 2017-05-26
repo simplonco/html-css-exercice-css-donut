@@ -16,7 +16,7 @@ Votre référence est le ﬁchier screenshot.png.
 
 # Spéciﬁcations minimales 
 
-Je vous donne volontairement peu d’indications. Vous ferez marcher votre bon sens pour reproduire la charte graphique et utiliserez un outil comme Gimp pour faire les mesures nécessaires. 
+Je vous donne volontairement peu d’indications. Vous ferez marcher votre bon sens pour reproduire la charte graphique et utiliserez un outil comme [Gimp pour faire les mesures nécessaires](https://docs.gimp.org/fr/gimp-tool-measure.html). 
 
 Notes : 
 
